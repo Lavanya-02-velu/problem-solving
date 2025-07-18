@@ -1,12 +1,73 @@
-Topic 1: Array
- 896. Monotonic Array        -->      https://leetcode.com/problems/monotonic-array
- 88 . Merge Sorted Array     -->      https://leetcode.com/problems/merge-sorted-array
- 941. Valid Mountain Array   -->      https://leetcode.com/problems/valid-mountain-array
-1470. Shuffle the Array      -->      https://leetcode.com/problems/shuffle-the-array
- 1.   Two Sum                -->      https://leetcode.com/problems/two-sum'
- 26.  Remove Duplicates from  Sorted Array -->  https://leetcode.com/problems/remove-duplicates-from-sorted-array
- 27.  Remove Element          -->      https://leetcode.com/problems/remove-element
- 66.  Plus One                -->      https://leetcode.com/problems/plus-one
-121.  Best Time to Buy and Sell Stock   --> https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-169.  Majority Element        -->      https://leetcode.com/problems/majority-element
-219. Contains Duplicate II    -->      https://leetcode.com/problems/contains-duplicate-ii
+                          Toipc__1--->Linked List
+
+2 -    Add Two Numbers - https://leetcode.com/problems/add-two-numbers/
+1290 - Convert Binary Number in a Linked List to Integer - https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+876  - Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/
+203  - Remove Linked List Elements - https://leetcode.com/problems/remove-linked-list-elements/
+160  - Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
+83   - Remove Duplicates from Sorted List - https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+21   - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+817  - Linked List Components - https://leetcode.com/problems/linked-list-components/
+707  - Design Linked List - https://leetcode.com/problems/design-linked-list/
+234  - Palindrome Linked List - https://leetcode.com/problems/palindrome-linked-list/
+206  - Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
+141  - Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
+
+
+                         Topic_2--> Arrays
+
+643  - Maximum Average Subarray I - https://leetcode.com/problems/maximum-average-subarray-i/
+1051 - Height Checker - https://leetcode.com/problems/height-checker/
+1470 - Shuffle the Array - https://leetcode.com/problems/shuffle-the-array/
+1089 - Duplicate Zeros - https://leetcode.com/problems/duplicate-zeros/
+941  - Valid Mountain Array - https://leetcode.com/problems/valid-mountain-array/
+896  - Monotonic Array - https://leetcode.com/problems/monotonic-array/
+88   - Merge Sorted Array - https://leetcode.com/problems/merge-sorted-array/
+66   - Plus One - https://leetcode.com/problems/plus-one/
+27   - Remove Element - https://leetcode.com/problems/remove-element/
+26   - Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+1281 - Subtract the Product and Sum of Digits of an Integer - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+1523 - Count Odd Numbers in an Interval Range - https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+2652 - Sum Multiples - https://leetcode.com/problems/sum-multiples/
+2180 - Count Integers With Even Digit Sum - https://leetcode.com/problems/count-integers-with-even-digit-sum/
+
+                        Tpic_3--> HashMap / HashSet / Data Structures
+
+706 - Design HashMap - https://leetcode.com/problems/design-hashmap/
+705 - Design HashSet - https://leetcode.com/problems/design-hashset/
+169 - Majority Element - https://leetcode.com/problems/majority-element/
+219 - Contains Duplicate II - https://leetcode.com/problems/contains-duplicate-ii/
+
+                        Topic_4--> Math
+
+9    - Palindrome Number - https://leetcode.com/problems/palindrome-number/
+13   - Roman to Integer - https://leetcode.com/problems/roman-to-integer/
+263  - Ugly Number - https://leetcode.com/problems/ugly-number/
+507  - Perfect Number - https://leetcode.com/problems/perfect-number/
+231  - Power of Two - https://leetcode.com/problems/power-of-two/
+2413 - Smallest Even Multiple - https://leetcode.com/problems/smallest-even-multiple/
+2235 - Add Two Integers - https://leetcode.com/problems/add-two-integers/
+2119 - A Number After a Double Reversal - https://leetcode.com/problems/a-number-after-a-double-reversal/
+
+                            Topic_5-->  Strings
+
+3    - Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+5    - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
+3110 - Score of a String - https://leetcode.com/problems/score-of-a-string/
+
+                           Topic_6-->Binary Search
+
+278 - First Bad Version - https://leetcode.com/problems/first-bad-version/
+
+                            Topic_7--> Greedy
+121  - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+2824 - Count Pairs Whose Sum is Less than Target - https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+
+                            Topic_8--> Miscellaneous / General
+
+1    - Two Sum - https://leetcode.com/problems/two-sum/
+2455 - Average Value of Even Numbers That Are Divisible by Three - https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
+1232 - Check If It Is a Straight Line - https://leetcode.com/problems/check-if-it-is-a-straight-line/
+1619 - Mean of Array After Removing Some Elements - https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+412  - Fizz Buzz - https://leetcode.com/problems/fizz-buzz/
+
