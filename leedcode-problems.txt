@@ -71,3 +71,6 @@
 1619 - Mean of Array After Removing Some Elements - https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 412  - Fizz Buzz - https://leetcode.com/problems/fizz-buzz/
 
+                            Topic-->Sliding Window
+   
+1695. Maximum Erasure Value-->https://leetcode.com/problems/maximum-erasure-value?envType=daily-question&envId=2025-07-22
