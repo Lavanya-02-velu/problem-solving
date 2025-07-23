@@ -53,8 +53,8 @@
 
 3    - Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 5    - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
-3110 - Score of a String - https://leetcode.com/problems/score-of-a-string/
-
+3110 - Score of a String - https://leetcohttps://leetcode.com/problems/
+6    - Zigzag Conversion- zigzag-conversion/de.com/problems/score-of-a-string/
                            Topic_6-->Binary Search
 
 278 - First Bad Version - https://leetcode.com/problems/first-bad-version/
