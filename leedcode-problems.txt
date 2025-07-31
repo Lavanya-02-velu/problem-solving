@@ -55,6 +55,15 @@
 5    - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 3110 - Score of a String - https://leetcohttps://leetcode.com/problems/
 6    - Zigzag Conversion- zigzag-conversion/de.com/problems/score-of-a-string/
+8. String to Integer (atoi) - https://leetcode.com/problems/string-to-integer-atoi/.com/problems/score-of-a-string/
+12. Integer to Roman - https://leetcode.com/problems/integer-to-roman/
+67. Add Binary - https://leetcode.com/problems/add-binary/
+125. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+49. Group Anagrams - https://leetcode.com/problems/group-anagrams/
+415. Add Strings - https://leetcode.com/problems/add-strings/
+43. Multiply Strings - https://leetcode.com/problems/multiply-strings/
+345. Reverse Vowels of a String - https://leetcode.com/problems/reverse-vowels-of-a-string/
+
                            Topic_6-->Binary Search
 
 278 - First Bad Version - https://leetcode.com/problems/first-bad-version/
