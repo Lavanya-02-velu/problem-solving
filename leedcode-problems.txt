@@ -72,4 +72,6 @@
 Selection Sort - https://www.geeksforgeeks.org/problems/selection-sort/1
 Bubble Sort - https://www.geeksforgeeks.org/problems/bubble-sort/1
 Insertion Sort - https://www.geeksforgeeks.org/problems/bubble-sort/1
- 
+Merge Sort - https://www.geeksforgeeks.org/problems/merge-sort/1
+
+  
