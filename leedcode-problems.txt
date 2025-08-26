@@ -83,6 +83,9 @@ Merge Sort - https://www.geeksforgeeks.org/problems/merge-sort/1
 171. Excel Sheet Column Number - https://leetcode.com/problems/excel-sheet-column-number/submissions/1742174492/
 202. Happy Number - https://leetcode.com/problems/happy-number/submissions/1742184817/
 326. Power of Three - https://leetcode.com/problems/power-of-three/submissions/1742190393/
+1154. Day of the Year - https://leetcode.com/problems/day-of-the-year/submissions/1749212539/
+1185. Day of the Week - https://leetcode.com/problems/day-of-the-week/submissions/1749227693/
+441. Arranging Coins - https://leetcode.com/problems/arranging-coins/submissions/1749236743/
 
  
 
