@@ -11,6 +11,8 @@
 234  - Palindrome Linked List - https://leetcode.com/problems/palindrome-linked-list/
 206  - Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
 141  - Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
+146  -  LRU Cache -https://leetcode.com/problems/lru-cache/submissions/1760296787/
+
                          Topic_2--> Arrays
 643  - Maximum Average Subarray I - https://leetcode.com/problems/maximum-average-subarray-i/
 1051 - Height Checker - https://leetcode.com/problems/height-checker/
@@ -55,6 +57,7 @@
 345. Reverse Vowels of a String - https://leetcode.com/problems/reverse-vowels-of-a-string/
                            Topic_6-->Binary Search
 278 - First Bad Version - https://leetcode.com/problems/first-bad-version/
+162. Find Peak Element -  https://leetcode.com/problems/find-peak-element/submissions/1760337457/
                             Topic_7--> Greedy
 121  - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 2824 - Count Pairs Whose Sum is Less than Target - https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
@@ -87,7 +90,13 @@ Merge Sort - https://www.geeksforgeeks.org/problems/merge-sort/1
 1185. Day of the Week - https://leetcode.com/problems/day-of-the-week/submissions/1749227693/
 441. Arranging Coins - https://leetcode.com/problems/arranging-coins/submissions/1749236743/
 
- 
+                   topic --> list
+41. First Missing Positive - https://leetcode.com/problems/first-missing-positive/
+48. Rotate Image  - https://leetcode.com/problems/rotate-image/submissions/1760323018/
+                       topiv ---> queue
+127. Word Ladder - https://leetcode.com/problems/word-ladder/
+
+
 
 
 
