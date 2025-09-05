@@ -12,6 +12,9 @@
 206  - Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
 141  - Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
 146  -  LRU Cache -https://leetcode.com/problems/lru-cache/submissions/1760296787/
+23. Merge k Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/submissions/1760349100/
+19. Remove Nth Node From End of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+
 
                          Topic_2--> Arrays
 643  - Maximum Average Subarray I - https://leetcode.com/problems/maximum-average-subarray-i/
@@ -76,6 +79,7 @@ Selection Sort - https://www.geeksforgeeks.org/problems/selection-sort/1
 Bubble Sort - https://www.geeksforgeeks.org/problems/bubble-sort/1
 Insertion Sort - https://www.geeksforgeeks.org/problems/bubble-sort/1
 Merge Sort - https://www.geeksforgeeks.org/problems/merge-sort/1
+4. Median of Two Sorted Arrays - https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1760342536/
                               Topic---> Dynamic programing
 70. Climbing Stairs  -   https://leetcode.com/problems/climbing-stairs/submissions/1740962975/
 338. Counting Bits   -   https://leetcode.com/problems/counting-bits/submissions/1740978450/
@@ -89,6 +93,8 @@ Merge Sort - https://www.geeksforgeeks.org/problems/merge-sort/1
 1154. Day of the Year - https://leetcode.com/problems/day-of-the-year/submissions/1749212539/
 1185. Day of the Week - https://leetcode.com/problems/day-of-the-week/submissions/1749227693/
 441. Arranging Coins - https://leetcode.com/problems/arranging-coins/submissions/1749236743/
+69. Sqrt(x) - https://leetcode.com/problems/sqrtx/submissions/1760360957/
+89. Gray Code - https://leetcode.com/problems/gray-code/submissions/1760368905/
 
                    topic --> list
 41. First Missing Positive - https://leetcode.com/problems/first-missing-positive/
