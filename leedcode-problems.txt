@@ -14,7 +14,8 @@
 146  -  LRU Cache -https://leetcode.com/problems/lru-cache/submissions/1760296787/
 23. Merge k Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/submissions/1760349100/
 19. Remove Nth Node From End of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
-
+25. Reverse Nodes in k-Group - https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1761148559/
+92. Reverse Linked List II - https://leetcode.com/problems/reverse-linked-list-ii/submissions/1761164187/
 
                          Topic_2--> Arrays
 643  - Maximum Average Subarray I - https://leetcode.com/problems/maximum-average-subarray-i/
@@ -31,6 +32,8 @@
 1523 - Count Odd Numbers in an Interval Range - https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 2652 - Sum Multiples - https://leetcode.com/problems/sum-multiples/
 2180 - Count Integers With Even Digit Sum - https://leetcode.com/problems/count-integers-with-even-digit-sum/
+80. Remove Duplicates from Sorted Array II - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1761206040/
+
                         Tpic_3--> HashMap / HashSet / Data Structures
 706 - Design HashMap - https://leetcode.com/problems/design-hashmap/
 705 - Design HashSet - https://leetcode.com/problems/design-hashset/
@@ -45,6 +48,7 @@
 2413 - Smallest Even Multiple - https://leetcode.com/problems/smallest-even-multiple/
 2235 - Add Two Integers - https://leetcode.com/problems/add-two-integers/
 2119 - A Number After a Double Reversal - https://leetcode.com/problems/a-number-after-a-double-reversal/
+7. Reverse Integer - https://leetcode.com/problems/reverse-integer/submissions/1761192443/
                             Topic_5-->  Strings
 3    - Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 5    - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
